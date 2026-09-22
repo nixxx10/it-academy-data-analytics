@@ -6,7 +6,7 @@ One folder per sprint. Reports are in Spanish/Catalan, as submitted.
 Portfolio projects live in their own repositories:
 - [thoker-asset-control](https://github.com/nixxx10/thoker-asset-control) — dimensional model in MySQL + fleet analysis in Power BI
 - [bcn-libraries-lending-analysis](https://github.com/nixxx10/bcn-libraries-lending-analysis) — final project: Barcelona public libraries, Open Data → Python → statistical analysis
-- [novapharma-excel-to-warehouse](https://github.com/nixxx10/novapharma-excel-to-warehouse) — Excel → MySQL / Python / Power BI digital transformation (pharma, synthetic data)
+- [novapharma-excel-to-datawarehouse](https://github.com/nixxx10/novapharma-excel-to-datawarehouse) — Excel → MySQL / Python / Power BI digital transformation (pharma, synthetic data)
 
 | Sprint | Topic | Tools | Contents |
 |---|---|---|---|
